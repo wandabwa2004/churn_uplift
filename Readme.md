@@ -84,11 +84,6 @@ This enables smarter, budget-aware marketing—maximizing ROI by focusing on "pe
 
 - **Budget-aware selection:** Maximizes campaign ROI by considering both uplift and cost.
 
----
-
-## License
-
-MIT License
 
 ---
 
